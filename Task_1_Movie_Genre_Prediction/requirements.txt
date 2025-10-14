@@ -1,0 +1,5 @@
+# CODSOFT/Task_1_Movie_Genre_Prediction/requirements.txt
+pandas
+scikit-learn
+nltk
+joblib
