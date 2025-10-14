@@ -1,0 +1,5 @@
+# CODSOFT/Task_2_Fraud_Detection/requirements.txt
+pandas
+scikit-learn
+numpy
+joblib
