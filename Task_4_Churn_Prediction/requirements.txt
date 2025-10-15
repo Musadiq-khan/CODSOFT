@@ -1,0 +1,5 @@
+# CODSOFT/Task_4_Churn_Prediction/requirements.txt
+pandas
+scikit-learn
+numpy
+joblib
