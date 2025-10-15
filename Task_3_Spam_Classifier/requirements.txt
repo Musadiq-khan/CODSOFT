@@ -1,0 +1,5 @@
+# CODSOFT/Task_3_Spam_Classifier/requirements.txt
+pandas
+scikit-learn
+nltk
+joblib
